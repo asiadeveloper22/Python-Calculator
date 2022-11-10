@@ -1,2 +1,2 @@
 # Python-Calculator
-Mini projrct for new programer
+Mini project for new programmer Python
