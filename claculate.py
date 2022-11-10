@@ -1,4 +1,4 @@
-operator = input(''' Please select operator :
+operator = input(''' Please select your operator function :
 +
 -
 *
